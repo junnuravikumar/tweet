@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: rgb(255, 254, 254);
+}
+
+.input-text {
+width: 50%;
+height: 100px;
+border: rgb(78, 142, 246) solid ;
+}
+.output-text{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
